@@ -1,0 +1,32 @@
+[
+	{
+		"name": "African Wildcat",
+		"description": "The African Wildcat is the ancestor of all domestic cats. They have existed for thousands of years, predating Ancient Egypt by over 1000 years.",
+		"image": "https://cdn.britannica.com/57/181757-050-067E5C9E/African-wildcat.jpg"
+	},
+	{
+		"name": "Abyssinian",
+		"description": "The Abyssinian cat breed is known for its ticked coat pattern and large, expressive eyes. They are active, social, and playful.",
+		"image": "https://www.dailypaws.com/thmb/9CN7eBr9VlWgmUqTOJCIQrY4ecg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/abyssinian-standing-wooden-floor-332009705-2000-e52e511e30e64042a45b7a6e6f36464d.jpeg"
+	},
+	{
+		"name": "American Curl",
+		"description": "American Curls are recognizable by their unique curled back ears. They are affectionate and good with families.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/1/17/American_curl_2.jpg"
+	},
+	{
+		"name": "American Shorthair",
+		"description": "American Shorthairs are known for their longevity, robust health, and good looks. They are friendly and sociable.",
+		"image": "https://www.thesprucepets.com/thmb/8o5e2mkJcAr4kODvsllTf2xiioo=/4778x0/filters:no_upscale():strip_icc()/GettyImages-925319984-36b97d913d934d229d8b0d528a7da64e.jpg"
+	},
+	{
+		"name": "American Wirehair",
+		"description": "The American Wirehair breed features a unique wire-coat texture. They are easygoing and adaptable.",
+		"image": "https://www.dailypaws.com/thmb/vqaobLOvzW6R4gn6ck-gV8-pAsM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/american-wirehair-1285494426-2000-f983b134b51c4f46a3f50e26fb878abe.jpg"
+	},
+	{
+		"name": "Balinese",
+		"description": "The Balinese cat is known for its long, silky coat and sapphire-blue eyes. They are intelligent, agile, and vocal.",
+		"image": "https://www.thesprucepets.com/thmb/J0OGoT6llDfgTzfL0t_4gK_fyFY=/2121x0/filters:no_upscale():strip_icc()/GettyImages-855587394-902433e789c9423cb683be8e9c1291ce.jpg"
+	}
+]
