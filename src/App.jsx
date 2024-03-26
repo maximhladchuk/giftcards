@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
-import Cat from './Cat' // Import the Cat component
-import './App.css' // Make sure to import your CSS
+import Cat from './Cat'
+import './App.css'
 
 const App = () => {
 	const [cats, setCats] = useState([])
@@ -11,7 +11,6 @@ const App = () => {
 				const response = await fetch('/cats.json')
 				const data = await response.json()
 
-				// Normalize data: remove duplicates, empty objects, etc.
 				const normalizedData = data
 					.filter(
 						(cat, index, self) =>
